@@ -1,3 +1,2 @@
 print('Hello World!')
-print('Version 3')
-print('test')
+print('Version 1')
